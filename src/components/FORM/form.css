@@ -1,0 +1,88 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+  
+  
+
+}
+
+body{
+    font-size: 16px;
+    min-height:100vh;
+    align-items: center;
+    background-color: white;
+    color:black;
+    justify-content: center;
+    margin: 50px;
+    
+    
+}
+.Form{
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 5px;
+  background-color: #f0ffff;
+    position:"absolute"
+
+}
+
+h3{
+color:black;
+text-align: center;
+margin: 30px;
+font-size: 2rem;
+padding-left: 10rem;
+
+}
+
+h1{
+    text-align: center;
+    margin:30px;
+}
+h1 #span{
+        color:red;
+}
+.c2{
+    margin-left: 40px;
+
+ }
+/* .c3{
+    margin-left: 40px;
+    margin-top: 7px;
+}  */
+
+
+.employee{
+    margin-Top:10px;
+     width:200px;
+}
+
+.g2{
+    margin-Top:30px;
+} 
+
+.inputlabel{
+    margin-Top:20px ;
+    margin-Left:50px;
+}
+.inputlabel1{
+    
+    margin-Left:50px;
+}
+
+.box{
+    width:300px;
+    height: 50px;
+    border:1px solid black;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    padding:20px;
+}
+input{
+    background:transparent;
+    border: 0px;
+    outline: 0px;
+    width: 300px;
+}
